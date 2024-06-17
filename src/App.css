@@ -1,0 +1,99 @@
+* {
+  padding: 0%;
+  margin: 0%;
+}
+
+.AdminLoginTradeColor {
+  background: rgb(2, 7, 11);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 7, 11, 1) 0%,
+    rgb(6, 16, 25) 50%,
+    rgba(11, 35, 58, 1) 100%
+  );
+}
+
+.AdminLoginTrade {
+  background-image: url("../src/assets/AdminLogTrade.png");
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  mix-blend-mode: lighten;
+}
+
+.BgMain {
+  background-color: #0b253d !important;
+}
+
+.BgUnder {
+  background-color: #021629 !important;
+}
+
+.css-12i7wg6-MuiPaper-root-MuiDrawer-paper {
+  border-right: 0px !important;
+}
+
+.css-1t1j96h-MuiPaper-root-MuiDialog-paper {
+  border-radius: 5px !important;
+  background-color: transparent !important;
+  max-width: none !important;
+}
+
+.BlueHover:hover {
+  background-color: #3b90dc !important;
+  transition: 0.3s;
+  cursor: pointer;
+}
+.BlueHover:hover .HoverWhite {
+  color: white;
+}
+
+.RedHover:hover {
+  background-color: red !important;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.RedHover:hover .HoverWhite {
+  color: white;
+}
+
+.BrownDash {
+  background: rgb(72, 38, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(72, 38, 36, 1) 0%,
+    rgb(72, 38, 36) 35%,
+    rgba(33, 28, 36, 1) 100%
+  );
+}
+
+.NavyBlueDash {
+  background: rgb(22, 51, 92);
+  background: linear-gradient(
+    90deg,
+    rgba(22, 51, 92, 1) 0%,
+    rgba(15, 40, 75, 1) 35%,
+    rgba(8, 30, 58, 1) 100%
+  );
+}
+
+.PurpleDash {
+  background: rgb(40, 33, 94);
+  background: linear-gradient(
+    90deg,
+    rgba(40, 33, 94, 1) 0%,
+    rgba(26, 27, 73, 1) 35%,
+    rgba(13, 22, 52, 1) 100%
+  );
+}
+
+.GreenDash {
+  background: rgb(11, 62, 49);
+  background: linear-gradient(
+    90deg,
+    rgba(11, 62, 49, 1) 0%,
+    rgba(7, 45, 43, 1) 35%,
+    rgba(5, 33, 39, 1) 100%
+  );
+}
